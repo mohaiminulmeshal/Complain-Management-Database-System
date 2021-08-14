@@ -1,2 +1,2 @@
-# Complain_Management System
+# Complain Management System
 Complaint Management Database System
